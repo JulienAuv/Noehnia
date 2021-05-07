@@ -6,6 +6,11 @@ https://www.planetminecraft.com/texture-pack/conquest-32x32/
 Discord:
 https://discord.gg/tPvZdJSPx7
 
+>ISLANDS:
+>Neekeri
+>https://github.com/JulienAuv/Noehnia/blob/main/neekeri4k.world
+>
+
 >Swamp
 >
 >Desert & Mesa
