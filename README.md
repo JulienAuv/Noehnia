@@ -7,8 +7,8 @@ Discord:
 https://discord.gg/tPvZdJSPx7
 
 >ISLANDS:
+>
 >Neekeri
->https://github.com/JulienAuv/Noehnia/blob/main/neekeri4k.world
 >
 
 >Swamp
