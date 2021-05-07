@@ -6,11 +6,9 @@ https://www.planetminecraft.com/texture-pack/conquest-32x32/
 Discord:
 https://discord.gg/tPvZdJSPx7
 
->ISLANDS:
->
->Neekeri
->
->Nordic/Fjord Island with a Glacier
+ISLANDS:
+Neekeri
+Nordic/Fjord Island with a Glacier
 
 >Swamp
 >
