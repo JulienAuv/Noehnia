@@ -7,8 +7,10 @@ Discord:
 https://discord.gg/tPvZdJSPx7
 
 **ISLANDS:**
-* Neekeri
+* Neekeri (4000x4000)
   * (Nordic/Fjord Island with a Glacier)
+* Comprensivo
+  * (Mediterranean/Italian Island with vineyards)
 
 >Swamp
 >
